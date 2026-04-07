@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hola 1
-=======
-hola 1
->>>>>>> parent of 62022d0 (segundo commit)
